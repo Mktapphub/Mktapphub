@@ -1,3 +1,7 @@
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Minhajul+Khan..;Android+App+Developer;Cyber-Security+Specialist..;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....&center=true"></a></p>
+
 # 💫 About Me:
 Hello! I'm a passionate student from a renowned university in Bangladesh, and I work as a Project Coordinator at Binary SUST, a technology-based organization. With expertise in web development, Python programming, Android app development, and cybersecurity, I thrive on solving complex problems through code and innovative solutions.<br><br>I've worked on many projects, including OpenCV applications like Alexa and Vision Helper, and developed over 1000 Android apps. My expertise extends to website security testing, and I’m a certified ethical hacker with hands-on experience using various cybersecurity tools. As a mentor in an ethical hacking group, I enjoy teaching others and staying updated with the latest in cybersecurity trends.<br><br>Apart from technical skills, I'm also proficient in MS Word and MS Excel, having worked as a certified instructor in both. Let’s connect and collaborate to build impactful solutions.
 
@@ -23,6 +27,9 @@ Hello! I'm a passionate student from a renowned university in Bangladesh, and I 
 ![](https://github-contributor-stats.vercel.app/api?username=Mktapphub&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+```text
+Python   6 hrs 58 mins    █████████████████████████   100.00 %
+```
 [![](https://visitcount.itsvg.in/api?id=Mktapphub&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
